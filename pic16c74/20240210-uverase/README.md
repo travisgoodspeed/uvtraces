@@ -9,6 +9,7 @@ Three read failures were likely caused by my EEPROM reader or its USB cable.
 
 Timeline:
 
+```
 14:42:11 -- Erasure begins.
 14:45:44 -- Read failure.
 14:55:40 -- First bits rise to ones.
@@ -16,6 +17,6 @@ Timeline:
 15:02:31 -- Read failure.
 15:05:13 -- First read of erased bits.
 15:05:20 -- Erasure complete.
-
+```
 
 --Travis
